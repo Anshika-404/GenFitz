@@ -1,4 +1,4 @@
- **GenFitZ**
+**GenFitZ**
 
 GenFitZ is a health management application built with Streamlit, designed to help users manage their health by analyzing images of food items and calculating their total calories. The app utilizes Google's Gemini Pro Vision API for image recognition and calorie calculation.
 
@@ -32,7 +32,8 @@ GenFitZ is a health management application built with Streamlit, designed to hel
    - Add your Google API key to the `.env` file:
      ```
      GOOGLE_API_KEY=your_api_key_here
-     ```
+    
+
 
 4. **Run the application:**
    ```
@@ -41,6 +42,18 @@ GenFitZ is a health management application built with Streamlit, designed to hel
 
 5. **Access the application:**
    Open a web browser and navigate to the URL provided by Streamlit (typically `http://localhost:8501`).
+
+
+
+![Screenshot 2024-11-12 131424](https://github.com/user-attachments/assets/dabce494-f5be-40e2-8a4e-a6c6c9aba2be)
+
+![Screenshot 2024-11-12 131452](https://github.com/user-attachments/assets/9ba91580-0bd0-4841-b2cd-2e9d0fa7f3a0)
+
+![Screenshot 2024-11-12 131510](https://github.com/user-attachments/assets/3eefadc9-3aca-411a-80bc-6ba853d91d28)
+
+
+![Screenshot 2024-11-12 131615](https://github.com/user-attachments/assets/d9757d73-a3d8-47bd-9841-689e0e35199b)
+
 
 ## **Contributing**
 
