@@ -19,7 +19,7 @@ GenFitZ is a health management application built with Streamlit, designed to hel
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your-username/genfitz.git
+   git clone https://github.com/Anshika-404/genfitz.git
    ```
 
 2. **Install dependencies:**
